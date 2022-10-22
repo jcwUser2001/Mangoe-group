@@ -3,7 +3,6 @@ package com.example.soundmind
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
 import android.widget.Toast
 import com.example.soundmind.databinding.ActivityMainBinding
 import com.google.firebase.auth.FirebaseAuth
@@ -12,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
     private lateinit var firebaseAuth: FirebaseAuth
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         firebaseAuth = FirebaseAuth.getInstance()
 
         binding.loginButton.setOnClickListener {
-            val sm = Intent(this, Login::class.java)
+            val sm = Intent(this, loading::class.java)
             startActivity(sm)
         }
         binding.signButton.setOnClickListener {
