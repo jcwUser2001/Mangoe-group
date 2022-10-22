@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "709424187534",
+    "project_id": "sound-mind-2aaa0",
+    "storage_bucket": "sound-mind-2aaa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709424187534:android:e93354762e6583d01ee1df",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709424187534-p9alfo3l10n9lvh2mg9d766trncotf73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRcYr0rUFG4Gl5tEcIpsvuxf22Kbs2b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709424187534-p9alfo3l10n9lvh2mg9d766trncotf73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709424187534:android:cd96b9591d3989f91ee1df",
+        "android_client_info": {
+          "package_name": "com.example.soundmind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709424187534-p9alfo3l10n9lvh2mg9d766trncotf73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRcYr0rUFG4Gl5tEcIpsvuxf22Kbs2b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709424187534-p9alfo3l10n9lvh2mg9d766trncotf73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

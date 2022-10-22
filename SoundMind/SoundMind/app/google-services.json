@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738205407933",
+    "project_id": "sound-mind-b9302",
+    "storage_bucket": "sound-mind-b9302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738205407933:android:2995a5b1d513a2d038f5d4",
+        "android_client_info": {
+          "package_name": "com.example.soundmind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738205407933-1o5lq6fp7103p1mcd43oa47jmdqinchi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhhu01lO-QhJufak7n_8gdCsSBmKwwO6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738205407933-1o5lq6fp7103p1mcd43oa47jmdqinchi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
